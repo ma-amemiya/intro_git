@@ -1,3 +1,8 @@
 Gitの練習
 
 基本的なうんたらを練習します
+
+
+
+・git add
+・git commit
